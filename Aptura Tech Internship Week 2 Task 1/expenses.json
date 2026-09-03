@@ -1,0 +1,37 @@
+[
+    {
+        "id": 5,
+        "amount": 5000.0,
+        "category": "Health",
+        "description": "Medicines",
+        "date": "2026-08-04"
+    },
+    {
+        "id": 6,
+        "amount": 2000.0,
+        "category": "Food",
+        "description": "pizza",
+        "date": "2026-08-12"
+    },
+    {
+        "id": 7,
+        "amount": 6000.0,
+        "category": "Education",
+        "description": "School fee",
+        "date": "2026-09-04"
+    },
+    {
+        "id": 6,
+        "amount": 10000.0,
+        "category": "Bills",
+        "description": "Electricity bill",
+        "date": "2026-09-04"
+    },
+    {
+        "id": 7,
+        "amount": 6000.0,
+        "category": "Education",
+        "description": "Coaching fee",
+        "date": "2026-09-04"
+    }
+]
