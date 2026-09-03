@@ -155,7 +155,3 @@ Through this project, I practiced:
 * Connecting a frontend with a Python backend
 
 ---
-
-
-
-````
