@@ -139,26 +139,6 @@ Example:
 
 ---
 
-## 🧪 Testing
-
-The application was tested for the following operations:
-
-| Test                    | Status   |
-| ----------------------- | -------- |
-| Add Expense             | ✅ Passed |
-| View Expenses           | ✅ Passed |
-| Search Expense          | ✅ Passed |
-| Filter by Category      | ✅ Passed |
-| Monthly Total           | ✅ Passed |
-| Delete Expense          | ✅ Passed |
-| Invalid Amount Handling | ✅ Passed |
-| Invalid Date Handling   | ✅ Passed |
-| JSON Data Persistence   | ✅ Passed |
-| Streamlit Dashboard     | ✅ Passed |
-
----
-
-
 ## 📚 What I Learned
 
 Through this project, I practiced:
